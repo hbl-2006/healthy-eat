@@ -1,0 +1,7 @@
+.dashboard{
+    height: 100vh;
+    background-color: #D9D9D9;
+    overflow-y: auto;
+    max-width: 100%;
+    overflow-x: hidden;
+}
